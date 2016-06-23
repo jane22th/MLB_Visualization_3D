@@ -1,0 +1,111 @@
+fileFormatVersion: 2
+guid: 834157dfc6097f74eba282dd7852ecf6
+timeCreated: 1464914942
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000020000000300000004000000050000000600000007000000
+  assetHash:
+    serializedVersion: 2
+    Hash: f620c28d76fef1a937cc95d958e5353a
+  longitude: -122.20062613617027
+  latitude: 37.7513663852047
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 764.83203, y: 30.603077, z: -900.76483}
+      lookAt: {x: 341.47015, y: -92.71349, z: -628.1984}
+      up: {x: -0.20001313, y: 0.97129434, z: 0.12877133}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: baseball infield
+    100002: Roarpak Stadium - Fantasy Stadium
+    100004: Susan
+    100006: //RootNode
+    400000: baseball infield
+    400002: Roarpak Stadium - Fantasy Stadium
+    400004: Susan
+    400006: //RootNode
+    2300000: baseball infield
+    2300002: Roarpak Stadium - Fantasy Stadium
+    2300004: Susan
+    2300006: //RootNode
+    3300000: baseball infield
+    3300002: Roarpak Stadium - Fantasy Stadium
+    3300004: Susan
+    3300006: //RootNode
+    4300000: Mesh Untitled
+    4300002: Mesh Roarpak Stadium - Fantasy Stadium
+    4300004: Mesh baseball infield
+    4300006: Mesh Susan
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1167 @@
+fileFormatVersion: 2
+guid: e0a77b09483138b43a33598804f64a12
+timeCreated: 1466231538
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000
+  assetHash:
+    serializedVersion: 2
+    Hash: de988d675db336456f1cdd1d5a626aa2
+  longitude: -79.38878695599495
+  latitude: 43.64140827364415
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 232.0276, y: 182.91313, z: -172.94872}
+      lookAt: {x: -16.271471, y: 21.27102, z: 15.671254}
+      up: {x: -0.3664762, y: 0.88780206, z: 0.27839303}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: base
+    100002: base 1
+    100004: base 2
+    100006: bay#3
+    100008: bay#3 1
+    100010: bay#3 10
+    100012: bay#3 11
+    100014: bay#3 12
+    100016: bay#3 13
+    100018: bay#3 14
+    100020: bay#3 15
+    100022: bay#3 16
+    100024: bay#3 17
+    100026: bay#3 18
+    100028: bay#3 19
+    100030: bay#3 2
+    100032: bay#3 3
+    100034: bay#3 4
+    100036: bay#3 5
+    100038: bay#3 6
+    100040: bay#3 7
+    100042: bay#3 8
+    100044: bay#3 9
+    100046: bay#4
+    100048: bay#4 1
+    100050: bay#4 10
+    100052: bay#4 11
+    100054: bay#4 12
+    100056: bay#4 13
+    100058: bay#4 14
+    100060: bay#4 15
+    100062: bay#4 16
+    100064: bay#4 17
+    100066: bay#4 18
+    100068: bay#4 19
+    100070: bay#4 2
+    100072: bay#4 3
+    100074: bay#4 4
+    100076: bay#4 5
+    100078: bay#4 6
+    100080: bay#4 7
+    100082: bay#4 8
+    100084: bay#4 9
+    100086: bay#5
+    100088: bay#5 1
+    100090: bay#5 2
+    100092: bay#5 3
+    100094: bay#5 4
+    100096: bay#5 5
+    100098: bay#5 6
+    100100: bay#5 7
+    100102: bay#5 8
+    100104: DIVIT
+    100106: DIVIT 1
+    100108: DIVIT 10
+    100110: DIVIT 11
+    100112: DIVIT 12
+    100114: DIVIT 13
+    100116: DIVIT 14
+    100118: DIVIT 15
+    100120: DIVIT 16
+    100122: DIVIT 17
+    100124: DIVIT 18
+    100126: DIVIT 19
+    100128: DIVIT 2
+    100130: DIVIT 20
+    100132: DIVIT 21
+    100134: DIVIT 22
+    100136: DIVIT 23
+    100138: DIVIT 24
+    100140: DIVIT 25
+    100142: DIVIT 26
+    100144: DIVIT 27
+    100146: DIVIT 28
+    100148: DIVIT 29
+    100150: DIVIT 3
+    100152: DIVIT 30
+    100154: DIVIT 31
+    100156: DIVIT 32
+    100158: DIVIT 33
+    100160: DIVIT 34
+    100162: DIVIT 35
+    100164: DIVIT 36
+    100166: DIVIT 37
+    100168: DIVIT 38
+    100170: DIVIT 39
+    100172: DIVIT 4
+    100174: DIVIT 40
+    100176: DIVIT 41
+    100178: DIVIT 42
+    100180: DIVIT 43
+    100182: DIVIT 44
+    100184: DIVIT 45
+    100186: DIVIT 46
+    100188: DIVIT 47
+    100190: DIVIT 48
+    100192: DIVIT 49
+    100194: DIVIT 5
+    100196: DIVIT 50
+    100198: DIVIT 51
+    100200: DIVIT 52
+    100202: DIVIT 53
+    100204: DIVIT 54
+    100206: DIVIT 55
+    100208: DIVIT 56
+    100210: DIVIT 57
+    100212: DIVIT 58
+    100214: DIVIT 59
+    100216: DIVIT 6
+    100218: DIVIT 60
+    100220: DIVIT 61
+    100222: DIVIT 62
+    100224: DIVIT 63
+    100226: DIVIT 64
+    100228: DIVIT 65
+    100230: DIVIT 66
+    100232: DIVIT 67
+    100234: DIVIT 68
+    100236: DIVIT 69
+    100238: DIVIT 7
+    100240: DIVIT 70
+    100242: DIVIT 71
+    100244: DIVIT 72
+    100246: DIVIT 73
+    100248: DIVIT 74
+    100250: DIVIT 75
+    100252: DIVIT 76
+    100254: DIVIT 77
+    100256: DIVIT 78
+    100258: DIVIT 79
+    100260: DIVIT 8
+    100262: DIVIT 80
+    100264: DIVIT 9
+    100266: fence hor
+    100268: fence hor 1
+    100270: fence hor 10
+    100272: fence hor 11
+    100274: fence hor 12
+    100276: fence hor 13
+    100278: fence hor 14
+    100280: fence hor 15
+    100282: fence hor 16
+    100284: fence hor 17
+    100286: fence hor 18
+    100288: fence hor 19
+    100290: fence hor 2
+    100292: fence hor 20
+    100294: fence hor 21
+    100296: fence hor 22
+    100298: fence hor 23
+    100300: fence hor 24
+    100302: fence hor 25
+    100304: fence hor 26
+    100306: fence hor 27
+    100308: fence hor 28
+    100310: fence hor 29
+    100312: fence hor 3
+    100314: fence hor 30
+    100316: fence hor 31
+    100318: fence hor 32
+    100320: fence hor 33
+    100322: fence hor 34
+    100324: fence hor 35
+    100326: fence hor 4
+    100328: fence hor 5
+    100330: fence hor 6
+    100332: fence hor 7
+    100334: fence hor 8
+    100336: fence hor 9
+    100338: fence section
+    100340: fence section 1
+    100342: fence section 10
+    100344: fence section 11
+    100346: fence section 12
+    100348: fence section 13
+    100350: fence section 14
+    100352: fence section 15
+    100354: fence section 16
+    100356: fence section 17
+    100358: fence section 18
+    100360: fence section 19
+    100362: fence section 2
+    100364: fence section 20
+    100366: fence section 21
+    100368: fence section 22
+    100370: fence section 23
+    100372: fence section 24
+    100374: fence section 25
+    100376: fence section 26
+    100378: fence section 27
+    100380: fence section 28
+    100382: fence section 29
+    100384: fence section 3
+    100386: fence section 30
+    100388: fence section 31
+    100390: fence section 32
+    100392: fence section 33
+    100394: fence section 34
+    100396: fence section 35
+    100398: fence section 4
+    100400: fence section 5
+    100402: fence section 6
+    100404: fence section 7
+    100406: fence section 8
+    100408: fence section 9
+    100410: fence sectionfull
+    100412: fence sectionfull 1
+    100414: fence sectionfull 2
+    100416: fence sectionfull 3
+    100418: fence sectionfull 4
+    100420: fence sectionfull 5
+    100422: fence sectionfull#1
+    100424: fence sectionfull#1 1
+    100426: fence sectionfull#1 2
+    100428: fence sectionfull#1 3
+    100430: fence vert
+    100432: fence vert 1
+    100434: fence vert 10
+    100436: fence vert 11
+    100438: fence vert 12
+    100440: fence vert 13
+    100442: fence vert 2
+    100444: fence vert 3
+    100446: fence vert 4
+    100448: fence vert 5
+    100450: fence vert 6
+    100452: fence vert 7
+    100454: fence vert 8
+    100456: fence vert 9
+    100458: Google Earth Terrain
+    100460: Group 10
+    100462: Group 12
+    100464: Group 14
+    100466: Group 16
+    100468: Group 429
+    100470: Group 6
+    100472: Group 8
+    100474: home plate
+    100476: mound
+    100478: //RootNode
+    100480: WINDOW#2
+    100482: WINDOW#2 1
+    100484: WINDOW#2 10
+    100486: WINDOW#2 11
+    100488: WINDOW#2 12
+    100490: WINDOW#2 13
+    100492: WINDOW#2 14
+    100494: WINDOW#2 15
+    100496: WINDOW#2 16
+    100498: WINDOW#2 17
+    100500: WINDOW#2 18
+    100502: WINDOW#2 19
+    100504: WINDOW#2 2
+    100506: WINDOW#2 3
+    100508: WINDOW#2 4
+    100510: WINDOW#2 5
+    100512: WINDOW#2 6
+    100514: WINDOW#2 7
+    100516: WINDOW#2 8
+    100518: WINDOW#2 9
+    100520: WINDOW#3
+    100522: WINDOW#3 1
+    100524: WINDOW#3 2
+    100526: WINDOW#3 3
+    100528: WINDOW#3 4
+    100530: WINDOW#3 5
+    100532: WINDOW#3 6
+    100534: WINDOW#3 7
+    400000: base
+    400002: base 1
+    400004: base 2
+    400006: bay#3
+    400008: bay#3 1
+    400010: bay#3 10
+    400012: bay#3 11
+    400014: bay#3 12
+    400016: bay#3 13
+    400018: bay#3 14
+    400020: bay#3 15
+    400022: bay#3 16
+    400024: bay#3 17
+    400026: bay#3 18
+    400028: bay#3 19
+    400030: bay#3 2
+    400032: bay#3 3
+    400034: bay#3 4
+    400036: bay#3 5
+    400038: bay#3 6
+    400040: bay#3 7
+    400042: bay#3 8
+    400044: bay#3 9
+    400046: bay#4
+    400048: bay#4 1
+    400050: bay#4 10
+    400052: bay#4 11
+    400054: bay#4 12
+    400056: bay#4 13
+    400058: bay#4 14
+    400060: bay#4 15
+    400062: bay#4 16
+    400064: bay#4 17
+    400066: bay#4 18
+    400068: bay#4 19
+    400070: bay#4 2
+    400072: bay#4 3
+    400074: bay#4 4
+    400076: bay#4 5
+    400078: bay#4 6
+    400080: bay#4 7
+    400082: bay#4 8
+    400084: bay#4 9
+    400086: bay#5
+    400088: bay#5 1
+    400090: bay#5 2
+    400092: bay#5 3
+    400094: bay#5 4
+    400096: bay#5 5
+    400098: bay#5 6
+    400100: bay#5 7
+    400102: bay#5 8
+    400104: DIVIT
+    400106: DIVIT 1
+    400108: DIVIT 10
+    400110: DIVIT 11
+    400112: DIVIT 12
+    400114: DIVIT 13
+    400116: DIVIT 14
+    400118: DIVIT 15
+    400120: DIVIT 16
+    400122: DIVIT 17
+    400124: DIVIT 18
+    400126: DIVIT 19
+    400128: DIVIT 2
+    400130: DIVIT 20
+    400132: DIVIT 21
+    400134: DIVIT 22
+    400136: DIVIT 23
+    400138: DIVIT 24
+    400140: DIVIT 25
+    400142: DIVIT 26
+    400144: DIVIT 27
+    400146: DIVIT 28
+    400148: DIVIT 29
+    400150: DIVIT 3
+    400152: DIVIT 30
+    400154: DIVIT 31
+    400156: DIVIT 32
+    400158: DIVIT 33
+    400160: DIVIT 34
+    400162: DIVIT 35
+    400164: DIVIT 36
+    400166: DIVIT 37
+    400168: DIVIT 38
+    400170: DIVIT 39
+    400172: DIVIT 4
+    400174: DIVIT 40
+    400176: DIVIT 41
+    400178: DIVIT 42
+    400180: DIVIT 43
+    400182: DIVIT 44
+    400184: DIVIT 45
+    400186: DIVIT 46
+    400188: DIVIT 47
+    400190: DIVIT 48
+    400192: DIVIT 49
+    400194: DIVIT 5
+    400196: DIVIT 50
+    400198: DIVIT 51
+    400200: DIVIT 52
+    400202: DIVIT 53
+    400204: DIVIT 54
+    400206: DIVIT 55
+    400208: DIVIT 56
+    400210: DIVIT 57
+    400212: DIVIT 58
+    400214: DIVIT 59
+    400216: DIVIT 6
+    400218: DIVIT 60
+    400220: DIVIT 61
+    400222: DIVIT 62
+    400224: DIVIT 63
+    400226: DIVIT 64
+    400228: DIVIT 65
+    400230: DIVIT 66
+    400232: DIVIT 67
+    400234: DIVIT 68
+    400236: DIVIT 69
+    400238: DIVIT 7
+    400240: DIVIT 70
+    400242: DIVIT 71
+    400244: DIVIT 72
+    400246: DIVIT 73
+    400248: DIVIT 74
+    400250: DIVIT 75
+    400252: DIVIT 76
+    400254: DIVIT 77
+    400256: DIVIT 78
+    400258: DIVIT 79
+    400260: DIVIT 8
+    400262: DIVIT 80
+    400264: DIVIT 9
+    400266: fence hor
+    400268: fence hor 1
+    400270: fence hor 10
+    400272: fence hor 11
+    400274: fence hor 12
+    400276: fence hor 13
+    400278: fence hor 14
+    400280: fence hor 15
+    400282: fence hor 16
+    400284: fence hor 17
+    400286: fence hor 18
+    400288: fence hor 19
+    400290: fence hor 2
+    400292: fence hor 20
+    400294: fence hor 21
+    400296: fence hor 22
+    400298: fence hor 23
+    400300: fence hor 24
+    400302: fence hor 25
+    400304: fence hor 26
+    400306: fence hor 27
+    400308: fence hor 28
+    400310: fence hor 29
+    400312: fence hor 3
+    400314: fence hor 30
+    400316: fence hor 31
+    400318: fence hor 32
+    400320: fence hor 33
+    400322: fence hor 34
+    400324: fence hor 35
+    400326: fence hor 4
+    400328: fence hor 5
+    400330: fence hor 6
+    400332: fence hor 7
+    400334: fence hor 8
+    400336: fence hor 9
+    400338: fence section
+    400340: fence section 1
+    400342: fence section 10
+    400344: fence section 11
+    400346: fence section 12
+    400348: fence section 13
+    400350: fence section 14
+    400352: fence section 15
+    400354: fence section 16
+    400356: fence section 17
+    400358: fence section 18
+    400360: fence section 19
+    400362: fence section 2
+    400364: fence section 20
+    400366: fence section 21
+    400368: fence section 22
+    400370: fence section 23
+    400372: fence section 24
+    400374: fence section 25
+    400376: fence section 26
+    400378: fence section 27
+    400380: fence section 28
+    400382: fence section 29
+    400384: fence section 3
+    400386: fence section 30
+    400388: fence section 31
+    400390: fence section 32
+    400392: fence section 33
+    400394: fence section 34
+    400396: fence section 35
+    400398: fence section 4
+    400400: fence section 5
+    400402: fence section 6
+    400404: fence section 7
+    400406: fence section 8
+    400408: fence section 9
+    400410: fence sectionfull
+    400412: fence sectionfull 1
+    400414: fence sectionfull 2
+    400416: fence sectionfull 3
+    400418: fence sectionfull 4
+    400420: fence sectionfull 5
+    400422: fence sectionfull#1
+    400424: fence sectionfull#1 1
+    400426: fence sectionfull#1 2
+    400428: fence sectionfull#1 3
+    400430: fence vert
+    400432: fence vert 1
+    400434: fence vert 10
+    400436: fence vert 11
+    400438: fence vert 12
+    400440: fence vert 13
+    400442: fence vert 2
+    400444: fence vert 3
+    400446: fence vert 4
+    400448: fence vert 5
+    400450: fence vert 6
+    400452: fence vert 7
+    400454: fence vert 8
+    400456: fence vert 9
+    400458: Google Earth Terrain
+    400460: Group 10
+    400462: Group 12
+    400464: Group 14
+    400466: Group 16
+    400468: Group 429
+    400470: Group 6
+    400472: Group 8
+    400474: home plate
+    400476: mound
+    400478: //RootNode
+    400480: WINDOW#2
+    400482: WINDOW#2 1
+    400484: WINDOW#2 10
+    400486: WINDOW#2 11
+    400488: WINDOW#2 12
+    400490: WINDOW#2 13
+    400492: WINDOW#2 14
+    400494: WINDOW#2 15
+    400496: WINDOW#2 16
+    400498: WINDOW#2 17
+    400500: WINDOW#2 18
+    400502: WINDOW#2 19
+    400504: WINDOW#2 2
+    400506: WINDOW#2 3
+    400508: WINDOW#2 4
+    400510: WINDOW#2 5
+    400512: WINDOW#2 6
+    400514: WINDOW#2 7
+    400516: WINDOW#2 8
+    400518: WINDOW#2 9
+    400520: WINDOW#3
+    400522: WINDOW#3 1
+    400524: WINDOW#3 2
+    400526: WINDOW#3 3
+    400528: WINDOW#3 4
+    400530: WINDOW#3 5
+    400532: WINDOW#3 6
+    400534: WINDOW#3 7
+    2300000: base
+    2300002: base 1
+    2300004: base 2
+    2300006: bay#3
+    2300008: bay#3 1
+    2300010: bay#3 10
+    2300012: bay#3 11
+    2300014: bay#3 12
+    2300016: bay#3 13
+    2300018: bay#3 14
+    2300020: bay#3 15
+    2300022: bay#3 16
+    2300024: bay#3 17
+    2300026: bay#3 18
+    2300028: bay#3 19
+    2300030: bay#3 2
+    2300032: bay#3 3
+    2300034: bay#3 4
+    2300036: bay#3 5
+    2300038: bay#3 6
+    2300040: bay#3 7
+    2300042: bay#3 8
+    2300044: bay#3 9
+    2300046: bay#4
+    2300048: bay#4 1
+    2300050: bay#4 10
+    2300052: bay#4 11
+    2300054: bay#4 12
+    2300056: bay#4 13
+    2300058: bay#4 14
+    2300060: bay#4 15
+    2300062: bay#4 16
+    2300064: bay#4 17
+    2300066: bay#4 18
+    2300068: bay#4 19
+    2300070: bay#4 2
+    2300072: bay#4 3
+    2300074: bay#4 4
+    2300076: bay#4 5
+    2300078: bay#4 6
+    2300080: bay#4 7
+    2300082: bay#4 8
+    2300084: bay#4 9
+    2300086: bay#5
+    2300088: bay#5 1
+    2300090: bay#5 2
+    2300092: bay#5 3
+    2300094: bay#5 4
+    2300096: bay#5 5
+    2300098: bay#5 6
+    2300100: bay#5 7
+    2300102: bay#5 8
+    2300104: DIVIT
+    2300106: DIVIT 1
+    2300108: DIVIT 10
+    2300110: DIVIT 11
+    2300112: DIVIT 12
+    2300114: DIVIT 13
+    2300116: DIVIT 14
+    2300118: DIVIT 15
+    2300120: DIVIT 16
+    2300122: DIVIT 17
+    2300124: DIVIT 18
+    2300126: DIVIT 19
+    2300128: DIVIT 2
+    2300130: DIVIT 20
+    2300132: DIVIT 21
+    2300134: DIVIT 22
+    2300136: DIVIT 23
+    2300138: DIVIT 24
+    2300140: DIVIT 25
+    2300142: DIVIT 26
+    2300144: DIVIT 27
+    2300146: DIVIT 28
+    2300148: DIVIT 29
+    2300150: DIVIT 3
+    2300152: DIVIT 30
+    2300154: DIVIT 31
+    2300156: DIVIT 32
+    2300158: DIVIT 33
+    2300160: DIVIT 34
+    2300162: DIVIT 35
+    2300164: DIVIT 36
+    2300166: DIVIT 37
+    2300168: DIVIT 38
+    2300170: DIVIT 39
+    2300172: DIVIT 4
+    2300174: DIVIT 40
+    2300176: DIVIT 41
+    2300178: DIVIT 42
+    2300180: DIVIT 43
+    2300182: DIVIT 44
+    2300184: DIVIT 45
+    2300186: DIVIT 46
+    2300188: DIVIT 47
+    2300190: DIVIT 48
+    2300192: DIVIT 49
+    2300194: DIVIT 5
+    2300196: DIVIT 50
+    2300198: DIVIT 51
+    2300200: DIVIT 52
+    2300202: DIVIT 53
+    2300204: DIVIT 54
+    2300206: DIVIT 55
+    2300208: DIVIT 56
+    2300210: DIVIT 57
+    2300212: DIVIT 58
+    2300214: DIVIT 59
+    2300216: DIVIT 6
+    2300218: DIVIT 60
+    2300220: DIVIT 61
+    2300222: DIVIT 62
+    2300224: DIVIT 63
+    2300226: DIVIT 64
+    2300228: DIVIT 65
+    2300230: DIVIT 66
+    2300232: DIVIT 67
+    2300234: DIVIT 68
+    2300236: DIVIT 69
+    2300238: DIVIT 7
+    2300240: DIVIT 70
+    2300242: DIVIT 71
+    2300244: DIVIT 72
+    2300246: DIVIT 73
+    2300248: DIVIT 74
+    2300250: DIVIT 75
+    2300252: DIVIT 76
+    2300254: DIVIT 77
+    2300256: DIVIT 78
+    2300258: DIVIT 79
+    2300260: DIVIT 8
+    2300262: DIVIT 80
+    2300264: DIVIT 9
+    2300266: fence hor
+    2300268: fence hor 1
+    2300270: fence hor 10
+    2300272: fence hor 11
+    2300274: fence hor 12
+    2300276: fence hor 13
+    2300278: fence hor 14
+    2300280: fence hor 15
+    2300282: fence hor 16
+    2300284: fence hor 17
+    2300286: fence hor 18
+    2300288: fence hor 19
+    2300290: fence hor 2
+    2300292: fence hor 20
+    2300294: fence hor 21
+    2300296: fence hor 22
+    2300298: fence hor 23
+    2300300: fence hor 24
+    2300302: fence hor 25
+    2300304: fence hor 26
+    2300306: fence hor 27
+    2300308: fence hor 28
+    2300310: fence hor 29
+    2300312: fence hor 3
+    2300314: fence hor 30
+    2300316: fence hor 31
+    2300318: fence hor 32
+    2300320: fence hor 33
+    2300322: fence hor 34
+    2300324: fence hor 35
+    2300326: fence hor 4
+    2300328: fence hor 5
+    2300330: fence hor 6
+    2300332: fence hor 7
+    2300334: fence hor 8
+    2300336: fence hor 9
+    2300338: fence section
+    2300340: fence section 1
+    2300342: fence section 10
+    2300344: fence section 11
+    2300346: fence section 12
+    2300348: fence section 13
+    2300350: fence section 14
+    2300352: fence section 15
+    2300354: fence section 16
+    2300356: fence section 17
+    2300358: fence section 18
+    2300360: fence section 19
+    2300362: fence section 2
+    2300364: fence section 20
+    2300366: fence section 21
+    2300368: fence section 22
+    2300370: fence section 23
+    2300372: fence section 24
+    2300374: fence section 25
+    2300376: fence section 26
+    2300378: fence section 27
+    2300380: fence section 28
+    2300382: fence section 29
+    2300384: fence section 3
+    2300386: fence section 30
+    2300388: fence section 31
+    2300390: fence section 32
+    2300392: fence section 33
+    2300394: fence section 34
+    2300396: fence section 35
+    2300398: fence section 4
+    2300400: fence section 5
+    2300402: fence section 6
+    2300404: fence section 7
+    2300406: fence section 8
+    2300408: fence section 9
+    2300410: fence vert
+    2300412: fence vert 1
+    2300414: fence vert 10
+    2300416: fence vert 11
+    2300418: fence vert 12
+    2300420: fence vert 13
+    2300422: fence vert 2
+    2300424: fence vert 3
+    2300426: fence vert 4
+    2300428: fence vert 5
+    2300430: fence vert 6
+    2300432: fence vert 7
+    2300434: fence vert 8
+    2300436: fence vert 9
+    2300438: Google Earth Terrain
+    2300440: Group 10
+    2300442: Group 12
+    2300444: Group 14
+    2300446: Group 16
+    2300448: Group 429
+    2300450: Group 6
+    2300452: Group 8
+    2300454: home plate
+    2300456: mound
+    2300458: //RootNode
+    2300460: WINDOW#2
+    2300462: WINDOW#2 1
+    2300464: WINDOW#2 10
+    2300466: WINDOW#2 11
+    2300468: WINDOW#2 12
+    2300470: WINDOW#2 13
+    2300472: WINDOW#2 14
+    2300474: WINDOW#2 15
+    2300476: WINDOW#2 16
+    2300478: WINDOW#2 17
+    2300480: WINDOW#2 18
+    2300482: WINDOW#2 19
+    2300484: WINDOW#2 2
+    2300486: WINDOW#2 3
+    2300488: WINDOW#2 4
+    2300490: WINDOW#2 5
+    2300492: WINDOW#2 6
+    2300494: WINDOW#2 7
+    2300496: WINDOW#2 8
+    2300498: WINDOW#2 9
+    2300500: WINDOW#3
+    2300502: WINDOW#3 1
+    2300504: WINDOW#3 2
+    2300506: WINDOW#3 3
+    2300508: WINDOW#3 4
+    2300510: WINDOW#3 5
+    2300512: WINDOW#3 6
+    2300514: WINDOW#3 7
+    3300000: base
+    3300002: base 1
+    3300004: base 2
+    3300006: bay#3
+    3300008: bay#3 1
+    3300010: bay#3 10
+    3300012: bay#3 11
+    3300014: bay#3 12
+    3300016: bay#3 13
+    3300018: bay#3 14
+    3300020: bay#3 15
+    3300022: bay#3 16
+    3300024: bay#3 17
+    3300026: bay#3 18
+    3300028: bay#3 19
+    3300030: bay#3 2
+    3300032: bay#3 3
+    3300034: bay#3 4
+    3300036: bay#3 5
+    3300038: bay#3 6
+    3300040: bay#3 7
+    3300042: bay#3 8
+    3300044: bay#3 9
+    3300046: bay#4
+    3300048: bay#4 1
+    3300050: bay#4 10
+    3300052: bay#4 11
+    3300054: bay#4 12
+    3300056: bay#4 13
+    3300058: bay#4 14
+    3300060: bay#4 15
+    3300062: bay#4 16
+    3300064: bay#4 17
+    3300066: bay#4 18
+    3300068: bay#4 19
+    3300070: bay#4 2
+    3300072: bay#4 3
+    3300074: bay#4 4
+    3300076: bay#4 5
+    3300078: bay#4 6
+    3300080: bay#4 7
+    3300082: bay#4 8
+    3300084: bay#4 9
+    3300086: bay#5
+    3300088: bay#5 1
+    3300090: bay#5 2
+    3300092: bay#5 3
+    3300094: bay#5 4
+    3300096: bay#5 5
+    3300098: bay#5 6
+    3300100: bay#5 7
+    3300102: bay#5 8
+    3300104: DIVIT
+    3300106: DIVIT 1
+    3300108: DIVIT 10
+    3300110: DIVIT 11
+    3300112: DIVIT 12
+    3300114: DIVIT 13
+    3300116: DIVIT 14
+    3300118: DIVIT 15
+    3300120: DIVIT 16
+    3300122: DIVIT 17
+    3300124: DIVIT 18
+    3300126: DIVIT 19
+    3300128: DIVIT 2
+    3300130: DIVIT 20
+    3300132: DIVIT 21
+    3300134: DIVIT 22
+    3300136: DIVIT 23
+    3300138: DIVIT 24
+    3300140: DIVIT 25
+    3300142: DIVIT 26
+    3300144: DIVIT 27
+    3300146: DIVIT 28
+    3300148: DIVIT 29
+    3300150: DIVIT 3
+    3300152: DIVIT 30
+    3300154: DIVIT 31
+    3300156: DIVIT 32
+    3300158: DIVIT 33
+    3300160: DIVIT 34
+    3300162: DIVIT 35
+    3300164: DIVIT 36
+    3300166: DIVIT 37
+    3300168: DIVIT 38
+    3300170: DIVIT 39
+    3300172: DIVIT 4
+    3300174: DIVIT 40
+    3300176: DIVIT 41
+    3300178: DIVIT 42
+    3300180: DIVIT 43
+    3300182: DIVIT 44
+    3300184: DIVIT 45
+    3300186: DIVIT 46
+    3300188: DIVIT 47
+    3300190: DIVIT 48
+    3300192: DIVIT 49
+    3300194: DIVIT 5
+    3300196: DIVIT 50
+    3300198: DIVIT 51
+    3300200: DIVIT 52
+    3300202: DIVIT 53
+    3300204: DIVIT 54
+    3300206: DIVIT 55
+    3300208: DIVIT 56
+    3300210: DIVIT 57
+    3300212: DIVIT 58
+    3300214: DIVIT 59
+    3300216: DIVIT 6
+    3300218: DIVIT 60
+    3300220: DIVIT 61
+    3300222: DIVIT 62
+    3300224: DIVIT 63
+    3300226: DIVIT 64
+    3300228: DIVIT 65
+    3300230: DIVIT 66
+    3300232: DIVIT 67
+    3300234: DIVIT 68
+    3300236: DIVIT 69
+    3300238: DIVIT 7
+    3300240: DIVIT 70
+    3300242: DIVIT 71
+    3300244: DIVIT 72
+    3300246: DIVIT 73
+    3300248: DIVIT 74
+    3300250: DIVIT 75
+    3300252: DIVIT 76
+    3300254: DIVIT 77
+    3300256: DIVIT 78
+    3300258: DIVIT 79
+    3300260: DIVIT 8
+    3300262: DIVIT 80
+    3300264: DIVIT 9
+    3300266: fence hor
+    3300268: fence hor 1
+    3300270: fence hor 10
+    3300272: fence hor 11
+    3300274: fence hor 12
+    3300276: fence hor 13
+    3300278: fence hor 14
+    3300280: fence hor 15
+    3300282: fence hor 16
+    3300284: fence hor 17
+    3300286: fence hor 18
+    3300288: fence hor 19
+    3300290: fence hor 2
+    3300292: fence hor 20
+    3300294: fence hor 21
+    3300296: fence hor 22
+    3300298: fence hor 23
+    3300300: fence hor 24
+    3300302: fence hor 25
+    3300304: fence hor 26
+    3300306: fence hor 27
+    3300308: fence hor 28
+    3300310: fence hor 29
+    3300312: fence hor 3
+    3300314: fence hor 30
+    3300316: fence hor 31
+    3300318: fence hor 32
+    3300320: fence hor 33
+    3300322: fence hor 34
+    3300324: fence hor 35
+    3300326: fence hor 4
+    3300328: fence hor 5
+    3300330: fence hor 6
+    3300332: fence hor 7
+    3300334: fence hor 8
+    3300336: fence hor 9
+    3300338: fence section
+    3300340: fence section 1
+    3300342: fence section 10
+    3300344: fence section 11
+    3300346: fence section 12
+    3300348: fence section 13
+    3300350: fence section 14
+    3300352: fence section 15
+    3300354: fence section 16
+    3300356: fence section 17
+    3300358: fence section 18
+    3300360: fence section 19
+    3300362: fence section 2
+    3300364: fence section 20
+    3300366: fence section 21
+    3300368: fence section 22
+    3300370: fence section 23
+    3300372: fence section 24
+    3300374: fence section 25
+    3300376: fence section 26
+    3300378: fence section 27
+    3300380: fence section 28
+    3300382: fence section 29
+    3300384: fence section 3
+    3300386: fence section 30
+    3300388: fence section 31
+    3300390: fence section 32
+    3300392: fence section 33
+    3300394: fence section 34
+    3300396: fence section 35
+    3300398: fence section 4
+    3300400: fence section 5
+    3300402: fence section 6
+    3300404: fence section 7
+    3300406: fence section 8
+    3300408: fence section 9
+    3300410: fence vert
+    3300412: fence vert 1
+    3300414: fence vert 10
+    3300416: fence vert 11
+    3300418: fence vert 12
+    3300420: fence vert 13
+    3300422: fence vert 2
+    3300424: fence vert 3
+    3300426: fence vert 4
+    3300428: fence vert 5
+    3300430: fence vert 6
+    3300432: fence vert 7
+    3300434: fence vert 8
+    3300436: fence vert 9
+    3300438: Google Earth Terrain
+    3300440: Group 10
+    3300442: Group 12
+    3300444: Group 14
+    3300446: Group 16
+    3300448: Group 429
+    3300450: Group 6
+    3300452: Group 8
+    3300454: home plate
+    3300456: mound
+    3300458: //RootNode
+    3300460: WINDOW#2
+    3300462: WINDOW#2 1
+    3300464: WINDOW#2 10
+    3300466: WINDOW#2 11
+    3300468: WINDOW#2 12
+    3300470: WINDOW#2 13
+    3300472: WINDOW#2 14
+    3300474: WINDOW#2 15
+    3300476: WINDOW#2 16
+    3300478: WINDOW#2 17
+    3300480: WINDOW#2 18
+    3300482: WINDOW#2 19
+    3300484: WINDOW#2 2
+    3300486: WINDOW#2 3
+    3300488: WINDOW#2 4
+    3300490: WINDOW#2 5
+    3300492: WINDOW#2 6
+    3300494: WINDOW#2 7
+    3300496: WINDOW#2 8
+    3300498: WINDOW#2 9
+    3300500: WINDOW#3
+    3300502: WINDOW#3 1
+    3300504: WINDOW#3 2
+    3300506: WINDOW#3 3
+    3300508: WINDOW#3 4
+    3300510: WINDOW#3 5
+    3300512: WINDOW#3 6
+    3300514: WINDOW#3 7
+    4300000: Mesh skydome_open
+    4300002: Mesh Google Earth Terrain
+    4300004: Mesh Group 6
+    4300006: Mesh Group 8
+    4300008: Mesh Group 10
+    4300010: Mesh Group 12
+    4300012: Mesh Group 14
+    4300014: Mesh Group 16
+    4300016: Mesh DIVIT
+    4300018: Mesh WINDOW#3
+    4300020: Mesh bay#4
+    4300022: Mesh bay#3
+    4300024: Mesh DIVIT
+    4300026: Mesh bay#3
+    4300028: Mesh WINDOW#2
+    4300030: Mesh bay#5
+    4300032: Mesh bay#5
+    4300034: Mesh fence section
+    4300036: Mesh fence hor
+    4300038: Mesh fence vert
+    4300040: Mesh mound
+    4300042: Mesh Group 429
+    4300044: Mesh home plate
+    4300046: Mesh base
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
