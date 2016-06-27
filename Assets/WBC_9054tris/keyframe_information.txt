@@ -1,0 +1,7 @@
+catchball center    000-091
+catchball down      092-183
+catchball up        184-275
+squatting position  276-297
+idle                298-399
+idle squat          400-501
+signs               502-603
